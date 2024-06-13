@@ -1,0 +1,7 @@
+C:\Users\sumit pathak\source\repos\PureFunction\Immutabilityf\obj\Debug\Immutabilityf.csproj.AssemblyReference.cache
+C:\Users\sumit pathak\source\repos\PureFunction\Immutabilityf\obj\Debug\Immutabilityf.csproj.CoreCompileInputs.cache
+C:\Users\sumit pathak\source\repos\PureFunction\Immutabilityf\bin\Debug\Immutabilityf.exe.config
+C:\Users\sumit pathak\source\repos\PureFunction\Immutabilityf\bin\Debug\Immutabilityf.exe
+C:\Users\sumit pathak\source\repos\PureFunction\Immutabilityf\bin\Debug\Immutabilityf.pdb
+C:\Users\sumit pathak\source\repos\PureFunction\Immutabilityf\obj\Debug\Immutabilityf.exe
+C:\Users\sumit pathak\source\repos\PureFunction\Immutabilityf\obj\Debug\Immutabilityf.pdb

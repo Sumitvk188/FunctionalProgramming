@@ -1,0 +1,7 @@
+C:\Users\sumit pathak\source\repos\PureFunction\Higherorder\bin\Debug\Higherorder.exe.config
+C:\Users\sumit pathak\source\repos\PureFunction\Higherorder\bin\Debug\Higherorder.exe
+C:\Users\sumit pathak\source\repos\PureFunction\Higherorder\bin\Debug\Higherorder.pdb
+C:\Users\sumit pathak\source\repos\PureFunction\Higherorder\obj\Debug\Higherorder.csproj.AssemblyReference.cache
+C:\Users\sumit pathak\source\repos\PureFunction\Higherorder\obj\Debug\Higherorder.csproj.CoreCompileInputs.cache
+C:\Users\sumit pathak\source\repos\PureFunction\Higherorder\obj\Debug\Higherorder.exe
+C:\Users\sumit pathak\source\repos\PureFunction\Higherorder\obj\Debug\Higherorder.pdb

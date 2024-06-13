@@ -1,0 +1,7 @@
+C:\Users\sumit pathak\source\repos\PureFunction\Purefucntion\bin\Debug\Purefucntion.exe.config
+C:\Users\sumit pathak\source\repos\PureFunction\Purefucntion\bin\Debug\Purefucntion.exe
+C:\Users\sumit pathak\source\repos\PureFunction\Purefucntion\bin\Debug\Purefucntion.pdb
+C:\Users\sumit pathak\source\repos\PureFunction\Purefucntion\obj\Debug\Purefucntion.csproj.AssemblyReference.cache
+C:\Users\sumit pathak\source\repos\PureFunction\Purefucntion\obj\Debug\Purefucntion.csproj.CoreCompileInputs.cache
+C:\Users\sumit pathak\source\repos\PureFunction\Purefucntion\obj\Debug\Purefucntion.exe
+C:\Users\sumit pathak\source\repos\PureFunction\Purefucntion\obj\Debug\Purefucntion.pdb

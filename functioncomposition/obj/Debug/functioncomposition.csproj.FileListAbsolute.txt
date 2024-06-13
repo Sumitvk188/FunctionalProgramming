@@ -1,0 +1,7 @@
+C:\Users\sumit pathak\source\repos\PureFunction\functioncomposition\bin\Debug\functioncomposition.exe.config
+C:\Users\sumit pathak\source\repos\PureFunction\functioncomposition\bin\Debug\functioncomposition.exe
+C:\Users\sumit pathak\source\repos\PureFunction\functioncomposition\bin\Debug\functioncomposition.pdb
+C:\Users\sumit pathak\source\repos\PureFunction\functioncomposition\obj\Debug\functioncomposition.csproj.AssemblyReference.cache
+C:\Users\sumit pathak\source\repos\PureFunction\functioncomposition\obj\Debug\functioncomposition.csproj.CoreCompileInputs.cache
+C:\Users\sumit pathak\source\repos\PureFunction\functioncomposition\obj\Debug\functioncomposition.exe
+C:\Users\sumit pathak\source\repos\PureFunction\functioncomposition\obj\Debug\functioncomposition.pdb

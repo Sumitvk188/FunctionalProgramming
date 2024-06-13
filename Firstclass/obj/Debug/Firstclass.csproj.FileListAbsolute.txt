@@ -1,0 +1,7 @@
+C:\Users\sumit pathak\source\repos\PureFunction\Firstclass\obj\Debug\Firstclass.csproj.AssemblyReference.cache
+C:\Users\sumit pathak\source\repos\PureFunction\Firstclass\obj\Debug\Firstclass.csproj.CoreCompileInputs.cache
+C:\Users\sumit pathak\source\repos\PureFunction\Firstclass\bin\Debug\Firstclass.exe.config
+C:\Users\sumit pathak\source\repos\PureFunction\Firstclass\bin\Debug\Firstclass.exe
+C:\Users\sumit pathak\source\repos\PureFunction\Firstclass\bin\Debug\Firstclass.pdb
+C:\Users\sumit pathak\source\repos\PureFunction\Firstclass\obj\Debug\Firstclass.exe
+C:\Users\sumit pathak\source\repos\PureFunction\Firstclass\obj\Debug\Firstclass.pdb
